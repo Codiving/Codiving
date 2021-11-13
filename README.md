@@ -5,7 +5,7 @@ Hi. Hello. I'm korean 🇰🇷
 ## 💪 Skills  
 - FrontEnd  
 ![HTML5 Badge](http://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white) ![CSS3 Badge](http://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3) ![JavaScript Badge](http://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white) ![React Badge](http://img.shields.io/badge/React-blue?style=flat&logo=React)  ![Next.js Badge](http://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js) ![Storybook Badge](http://img.shields.io/badge/Storybook-pink?style=flat&logo=Storybook) ![Material-UI Badge](http://img.shields.io/badge/Material-UI-0081CB?style=flat&logo=Material-UI)  ![i18next Badge](http://img.shields.io/badge/i18next-26A69A?style=flat&logo=i18next&logoColor=white)  
-- BackEnd 
+- BackEnd  
 ![GraphQL Badge](http://img.shields.io/badge/GraphQL-E10098?style=flat&logo=GraphQL) ![Apollo%20GraphQL Badge](http://img.shields.io/badge/Apollo%20GraphQL-311C87?style=flat&logo=Apollo%20GraphQL) ![Node.js Badge](http://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white) ![MongoDB Badge](http://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white) ![Amazon%20DynamoDB Badge](http://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB) 
 - Version Control  
 ![Git Badge](http://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white) ![GitHub Badge](http://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub)  
