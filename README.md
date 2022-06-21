@@ -28,9 +28,3 @@ Hi. Hello. I'm korean 🇰🇷
   ![Node.js Badge](http://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white) ![MongoDB Badge](http://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white) ![Amazon%20DynamoDB Badge](http://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB)
 - Deployment  
   ![Amazon%20AWS Badge](http://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=Amazon%20AWS)
-
-## 🔥 ETC
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![Codiving's GitHub stats](https://github-readme-stats.vercel.app/api?username=Codiving&count_private=true&show_icons=true&theme=radical&hide=contribs,prs,issues)
