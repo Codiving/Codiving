@@ -27,9 +27,3 @@ I mainly develop using React and TypeScript.
 ### Tools
 
 ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=Visual%20Studio) ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code)
-
-<br/>
-
-## 💪 Github
-
-[![Codiving's github activity graph](https://activity-graph.herokuapp.com/graph?username=Codiving)](https://github.com/Codiving/github-readme-activity-graph)
